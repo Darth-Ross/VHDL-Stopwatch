@@ -14,7 +14,7 @@ You may use the source files in your own project or use the project itself as yo
 **Specifications**
 
 
-The stopwatch consists o two components, the finite state machine controller and the timer.
+The stopwatch consists of two components, the finite state machine controller and the timer.
 The finite state machine controls the stopwatch using the following buttons:
 - System reset  (Resets the state machine)
 - Watch reset   (Resets the watch time if paused)
