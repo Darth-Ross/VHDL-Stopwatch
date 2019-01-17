@@ -5,7 +5,7 @@ This is a hardware description for a digital stopwatch written in VHDL. The repo
 
 The software used for this project is Vivado 2014.3 and the configuration is made for the basys 3(Artix 7 FPGA) development board.
 
-
+The source files are located in [projectname].srcs/sources.
 You may use the source files in your own project or use the project itself as you see fit.
 
 
